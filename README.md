@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+### I'm Anthony, a software engineering student
 
 <!--
 **e4nthony/e4nthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
