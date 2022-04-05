@@ -30,8 +30,8 @@ jobs:
     #- run: npm ci
     - run: npx markdown-link-check README.md
     
-    # spell check,  cspell.json - exceptions
-    - run: npx cspell --show_suggestions --config .github/workflows/cspell.json README.md
+    # spell check,  cspell.json - exceptions file
+    - run: npx cspell --show-suggestions --config .github/workflows/cspell.json README.md
     
     #- run: npm run build --if-present
     #- run: npm test
