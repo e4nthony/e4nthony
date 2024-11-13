@@ -1,8 +1,9 @@
-### Hello there 👋
-### I'm Anthony, a software engineering student
-<br>
+#### Hello there 👋 <br/> I'm Anthony, a software engineering student
 
-### My Projects Portfolio:
+
+
+
+#### My Projects Portfolio:
 
 #### [Encrypted Bookmarks Exporter Add-on for Firefox browser.](https://github.com/e4nthony/Encrypted-Bookmarks-Exporter-Add-on)
 This add-on for Firefox browser allows user to export bookmarks into encrypted file to store it locally, as well as decrypt the file and import them from file into browser. 
@@ -16,7 +17,7 @@ Tools: pandas and scikit-learn.
 
 #### Online Auction Platform - BidZone. [Backend](https://github.com/e4nthony/ProjectManagement2023_BE) | [Frontend](https://github.com/e4nthony/ProjectManagement2023_FE)
 
-As part of Project Management course we as a team managed the process of creating a product using Agile-Scrum approach. The site is an online auction marketplace allowing the sellers and buyers to communicate. The site is divided into two different projects Backend and Frontend that runs simultaneously yet independently and communicate using http requests. Used Jira and Confluence platform to manage project requirements. Tools: Node.js, Express.js, JavaScript, React
+As part of Project Management course we as a team managed the process of creating a product using Agile-Scrum approach. The site is an online auction marketplace allowing the sellers and buyers to communicate. The project is divided into two different repos Backend and Frontend (i.e. Server-Client) and communicate using http requests. Used Jira and Confluence platform to manage project requirements. Tools: Node.js, Express.js, JavaScript, React
 
 <br><br>
 And more...
